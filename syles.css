@@ -1,0 +1,16 @@
+.fett{
+    color: goldenrod;
+    font-weight: bolder;
+    font-family: Helvetica, sans-serif;
+}
+li {color: orange;
+}
+header{color: aliceblue;
+background-color: coral;
+}
+h1{color:whitesmoke;
+}
+h2{color: goldenrod;
+}
+body{background-color: black;
+}
